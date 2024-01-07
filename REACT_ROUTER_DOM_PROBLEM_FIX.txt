@@ -1,0 +1,11 @@
+Issue:
+
+The page doesn't get updated automatically when navigating through the nav links or by clicking the logo (which goes to homepage) unless you refresh the whole page.
+
+FIX:
+
+Updating the react-router-dom version 5.2.0 to version 5.3.4
+
+NOTE : 
+
+This is using VITE
